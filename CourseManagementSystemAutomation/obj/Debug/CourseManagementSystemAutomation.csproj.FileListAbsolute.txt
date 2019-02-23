@@ -1,0 +1,59 @@
+C:\Test Automation\UpskillingSeptemberCourse\CourseManagementSystemAutomation\bin\Debug\CourseManagementSystemAutomation.dll.config
+C:\Test Automation\UpskillingSeptemberCourse\CourseManagementSystemAutomation\bin\Debug\CourseManagementSystemAutomation.dll
+C:\Test Automation\UpskillingSeptemberCourse\CourseManagementSystemAutomation\bin\Debug\CourseManagementSystemAutomation.pdb
+C:\Test Automation\UpskillingSeptemberCourse\CourseManagementSystemAutomation\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Test Automation\UpskillingSeptemberCourse\CourseManagementSystemAutomation\bin\Debug\Newtonsoft.Json.dll
+C:\Test Automation\UpskillingSeptemberCourse\CourseManagementSystemAutomation\bin\Debug\System.ValueTuple.dll
+C:\Test Automation\UpskillingSeptemberCourse\CourseManagementSystemAutomation\bin\Debug\TechTalk.SpecFlow.dll
+C:\Test Automation\UpskillingSeptemberCourse\CourseManagementSystemAutomation\bin\Debug\WebDriver.dll
+C:\Test Automation\UpskillingSeptemberCourse\CourseManagementSystemAutomation\bin\Debug\WebDriver.Support.dll
+C:\Test Automation\UpskillingSeptemberCourse\CourseManagementSystemAutomation\bin\Debug\Newtonsoft.Json.xml
+C:\Test Automation\UpskillingSeptemberCourse\CourseManagementSystemAutomation\bin\Debug\WebDriver.xml
+C:\Test Automation\UpskillingSeptemberCourse\CourseManagementSystemAutomation\bin\Debug\WebDriver.Support.xml
+C:\Test Automation\UpskillingSeptemberCourse\CourseManagementSystemAutomation\obj\Debug\CourseManagementSystemAutomation.dll
+C:\Test Automation\UpskillingSeptemberCourse\CourseManagementSystemAutomation\obj\Debug\CourseManagementSystemAutomation.pdb
+C:\Test Automation\Archive\UpskillingSeptemberCourse\CourseManagementSystemAutomation\bin\Debug\CourseManagementSystemAutomation.dll.config
+C:\Test Automation\Archive\UpskillingSeptemberCourse\CourseManagementSystemAutomation\bin\Debug\CourseManagementSystemAutomation.dll
+C:\Test Automation\Archive\UpskillingSeptemberCourse\CourseManagementSystemAutomation\bin\Debug\CourseManagementSystemAutomation.pdb
+C:\Test Automation\Archive\UpskillingSeptemberCourse\CourseManagementSystemAutomation\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Test Automation\Archive\UpskillingSeptemberCourse\CourseManagementSystemAutomation\bin\Debug\Newtonsoft.Json.dll
+C:\Test Automation\Archive\UpskillingSeptemberCourse\CourseManagementSystemAutomation\bin\Debug\System.ValueTuple.dll
+C:\Test Automation\Archive\UpskillingSeptemberCourse\CourseManagementSystemAutomation\bin\Debug\TechTalk.SpecFlow.dll
+C:\Test Automation\Archive\UpskillingSeptemberCourse\CourseManagementSystemAutomation\bin\Debug\WebDriver.dll
+C:\Test Automation\Archive\UpskillingSeptemberCourse\CourseManagementSystemAutomation\bin\Debug\WebDriver.Support.dll
+C:\Test Automation\Archive\UpskillingSeptemberCourse\CourseManagementSystemAutomation\bin\Debug\Newtonsoft.Json.xml
+C:\Test Automation\Archive\UpskillingSeptemberCourse\CourseManagementSystemAutomation\bin\Debug\WebDriver.xml
+C:\Test Automation\Archive\UpskillingSeptemberCourse\CourseManagementSystemAutomation\bin\Debug\WebDriver.Support.xml
+C:\Test Automation\Archive\UpskillingSeptemberCourse\CourseManagementSystemAutomation\obj\Debug\CourseManagementSystemAutomation.csprojResolveAssemblyReference.cache
+C:\Test Automation\Archive\UpskillingSeptemberCourse\CourseManagementSystemAutomation\obj\Debug\CourseManagementSystemAutomation.dll
+C:\Test Automation\Archive\UpskillingSeptemberCourse\CourseManagementSystemAutomation\obj\Debug\CourseManagementSystemAutomation.pdb
+C:\Automation\Archive\UpskillingSeptemberCourse\CourseManagementSystemAutomation\bin\Debug\CourseManagementSystemAutomation.dll.config
+C:\Automation\Archive\UpskillingSeptemberCourse\CourseManagementSystemAutomation\bin\Debug\CourseManagementSystemAutomation.dll
+C:\Automation\Archive\UpskillingSeptemberCourse\CourseManagementSystemAutomation\bin\Debug\CourseManagementSystemAutomation.pdb
+C:\Automation\Archive\UpskillingSeptemberCourse\CourseManagementSystemAutomation\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Automation\Archive\UpskillingSeptemberCourse\CourseManagementSystemAutomation\bin\Debug\Newtonsoft.Json.dll
+C:\Automation\Archive\UpskillingSeptemberCourse\CourseManagementSystemAutomation\bin\Debug\System.ValueTuple.dll
+C:\Automation\Archive\UpskillingSeptemberCourse\CourseManagementSystemAutomation\bin\Debug\TechTalk.SpecFlow.dll
+C:\Automation\Archive\UpskillingSeptemberCourse\CourseManagementSystemAutomation\bin\Debug\WebDriver.dll
+C:\Automation\Archive\UpskillingSeptemberCourse\CourseManagementSystemAutomation\bin\Debug\WebDriver.Support.dll
+C:\Automation\Archive\UpskillingSeptemberCourse\CourseManagementSystemAutomation\bin\Debug\Newtonsoft.Json.xml
+C:\Automation\Archive\UpskillingSeptemberCourse\CourseManagementSystemAutomation\bin\Debug\WebDriver.xml
+C:\Automation\Archive\UpskillingSeptemberCourse\CourseManagementSystemAutomation\bin\Debug\WebDriver.Support.xml
+C:\Automation\Archive\UpskillingSeptemberCourse\CourseManagementSystemAutomation\obj\Debug\CourseManagementSystemAutomation.dll
+C:\Automation\Archive\UpskillingSeptemberCourse\CourseManagementSystemAutomation\obj\Debug\CourseManagementSystemAutomation.pdb
+C:\Users\olura\OneDrive\Documents\Roughs\UpskillingSeptemberCourse\CourseManagementSystemAutomation\bin\Debug\CourseManagementSystemAutomation.dll.config
+C:\Users\olura\OneDrive\Documents\Roughs\UpskillingSeptemberCourse\CourseManagementSystemAutomation\bin\Debug\CourseManagementSystemAutomation.dll
+C:\Users\olura\OneDrive\Documents\Roughs\UpskillingSeptemberCourse\CourseManagementSystemAutomation\bin\Debug\CourseManagementSystemAutomation.pdb
+C:\Users\olura\OneDrive\Documents\Roughs\UpskillingSeptemberCourse\CourseManagementSystemAutomation\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\olura\OneDrive\Documents\Roughs\UpskillingSeptemberCourse\CourseManagementSystemAutomation\bin\Debug\Newtonsoft.Json.dll
+C:\Users\olura\OneDrive\Documents\Roughs\UpskillingSeptemberCourse\CourseManagementSystemAutomation\bin\Debug\System.ValueTuple.dll
+C:\Users\olura\OneDrive\Documents\Roughs\UpskillingSeptemberCourse\CourseManagementSystemAutomation\bin\Debug\TechTalk.SpecFlow.dll
+C:\Users\olura\OneDrive\Documents\Roughs\UpskillingSeptemberCourse\CourseManagementSystemAutomation\bin\Debug\WebDriver.dll
+C:\Users\olura\OneDrive\Documents\Roughs\UpskillingSeptemberCourse\CourseManagementSystemAutomation\bin\Debug\WebDriver.Support.dll
+C:\Users\olura\OneDrive\Documents\Roughs\UpskillingSeptemberCourse\CourseManagementSystemAutomation\bin\Debug\Newtonsoft.Json.xml
+C:\Users\olura\OneDrive\Documents\Roughs\UpskillingSeptemberCourse\CourseManagementSystemAutomation\bin\Debug\WebDriver.xml
+C:\Users\olura\OneDrive\Documents\Roughs\UpskillingSeptemberCourse\CourseManagementSystemAutomation\bin\Debug\WebDriver.Support.xml
+C:\Users\olura\OneDrive\Documents\Roughs\UpskillingSeptemberCourse\CourseManagementSystemAutomation\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+C:\Users\olura\OneDrive\Documents\Roughs\UpskillingSeptemberCourse\CourseManagementSystemAutomation\obj\Debug\CourseManagementSystemAutomation.csprojResolveAssemblyReference.cache
+C:\Users\olura\OneDrive\Documents\Roughs\UpskillingSeptemberCourse\CourseManagementSystemAutomation\obj\Debug\CourseManagementSystemAutomation.dll
+C:\Users\olura\OneDrive\Documents\Roughs\UpskillingSeptemberCourse\CourseManagementSystemAutomation\obj\Debug\CourseManagementSystemAutomation.pdb
